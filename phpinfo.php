@@ -1,4 +1,4 @@
 <?php
-  echo 'php info: <br />';
+  ech 'php info: <br />';
   phpinfo();
 ?>
